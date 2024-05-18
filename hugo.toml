@@ -1,0 +1,4 @@
+baseURL = 'https://mugsimon.github.io/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+theme = 'hugo-PaperMod'
